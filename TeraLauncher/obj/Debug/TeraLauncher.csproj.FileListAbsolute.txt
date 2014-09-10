@@ -1,0 +1,11 @@
+D:\projects\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.exe.config
+D:\projects\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.exe
+D:\projects\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.pdb
+D:\projects\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Main.resources
+D:\projects\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Properties.Resources.resources
+D:\projects\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.csproj.GenerateResource.Cache
+D:\projects\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.exe
+D:\projects\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.pdb
+D:\projects\TeraLauncher\TeraLauncher\bin\Debug\Ionic.Zip.dll
+D:\projects\TeraLauncher\TeraLauncher\bin\Debug\Ionic.Zip.pdb
+D:\projects\TeraLauncher\TeraLauncher\bin\Debug\Ionic.Zip.xml
